@@ -8,16 +8,10 @@ For this project required to have installed Python 2.7.9 (or higher) to your com
 
 ## Installing 
 
-You can download 
+You can download - [Download the latest release.](https://www.python.org/downloads/) 
 
 
 It is imperative while installing Python 2.7.9 (or higher) to install enviroment variable PATH from the options, otherwise the website will not orerate. Finally we can open Command line and runthe command 'Python' to be sure that everything installed correctly.
 
 
 
-_there_
-
-
-**here**
-
-'code'
