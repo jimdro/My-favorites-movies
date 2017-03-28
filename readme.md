@@ -8,9 +8,16 @@ For this project required to have installed Python 2.7.9 (or higher) to your com
 
 ## Installing 
 
-You can download the latest release of Python via (https://www.python.org/downloads/). When your download finish you run the file 
+You can download the latest release of Python via (https://www.python.org/downloads/). Python is available for many platforms such as windows, Mac and Linux, at this readme.md file i will guide to you how to install Python in Windows. When your download finish you run the file and you follow the instruction by clicking next. It is imperative while installing Python 2.7.9 (or higher) to install enviroment variable PATH from the options, otherwise the website will not orerate. Finally after installing Python you can open Command line and run the command 'Python' to be sure that everything installed correctly if an error occured probably something went wrong. If you have installed correctly you are ready to run the application.
 
-It is imperative while installing Python 2.7.9 (or higher) to install enviroment variable PATH from the options, otherwise the website will not orerate. Finally we can open Command line and runthe command 'Python' to be sure that everything installed correctly.
+## Running the website
 
 
 
+### Documentation for previous releases
+
+No previous releases
+
+## Creators
+
+**Dimitrios Drosos*
