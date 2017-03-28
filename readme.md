@@ -20,4 +20,4 @@ No previous releases
 
 ## Creators
 
-**Dimitrios Drosos*
+**Dimitrios Drosos**
