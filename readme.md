@@ -1,6 +1,6 @@
 # My-favorites-movies
 
-This project is a Movie Trailer Website which gives the opportunity to store you favorite movies and watch trailers in a really neat enviroment. By storing the movies in a website it gives you the opportunity remotely to watch your favorites trailers 
+This project is a Movie Trailer Website which gives the opportunity to store you favorite movies and watch trailers in a really neat enviroment. By storing the movies in a website it gives you the opportunity remotely to watch your favorites trailers.
 
 ## Prerequisites
 
