@@ -12,7 +12,7 @@ You can download the latest release of Python via (https://www.python.org/downlo
 
 ## Running the website
 
-Since the application is not uploaded to a server you should run it localy. Firstly you have to download and save the three files ( entertainment_center.py, fresh_tomatoes.py and media.py) in the same directory. After you have to open python GUI and then you have to open entertainment_center and  run the module.
+Since the application is not uploaded to a server you should run it localy. Firstly you have to download and save the three files (entertainment_center.py, fresh_tomatoes.py and media.py) in the same directory. After you have to open python GUI and then you have to open entertainment_center and  run the module.
 
 ### Documentation for previous releases
 
